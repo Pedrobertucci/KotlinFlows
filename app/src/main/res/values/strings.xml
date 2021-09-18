@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">KotlinFlows</string>
+
+    <string name="label_price">Price: </string>
+    <string name="label_mkt_cap">Mkt cap: </string>
+    <string name="sales_24h">Sold in 24 Hours: </string>
+    <string name="data_empty">Bitcoin price return empty =(</string>
+    <string name="unknown_error">"Some problem occurred "</string>
 </resources>
